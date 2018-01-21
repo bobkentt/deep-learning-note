@@ -1,5 +1,5 @@
 # deep-learning-note
-Write a note about deep learning.
+Writing a note about deep learning.
 ## Content
 ### Basic concept
 [Perceptron](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/perceptron.md)
