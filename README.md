@@ -4,19 +4,20 @@ Writing a note about deep learning.
 ### Basic concept
 [Perceptron](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/perceptron.md)
 
-[Neural Network](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/neural_network.md)
+[Neural Networks](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/neural_network.md)
 
 [Activation functions summary](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Activation.md)
 
-[Why go deeper](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/go_deeper.md)
+[Why go deeper?](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/go_deeper.md)
+
+[BP algorithm](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/bp_algorithm.md)
+
 #### To be updated...
 [Regularization in deeplearning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Regularization.md)
 
 [Dropout](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Dropout.md)
 
 [SGD algorithm](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/SGD.md)
-
-[BP algorithm](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/bp_algorithm.md)
 
 [CNN](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/CNN.md)
 
