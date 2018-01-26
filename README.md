@@ -12,10 +12,13 @@ Writing a note about deep learning.
 
 [BP algorithm](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/bp_algorithm.md)
 
-#### To be updated...
+[Cost function of deep learning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/cost.md)
+
 [Regularization in deeplearning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Regularization.md)
 
 [Dropout](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Dropout.md)
+
+#### To be updated...
 
 [SGD algorithm](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/SGD.md)
 
@@ -25,7 +28,11 @@ Writing a note about deep learning.
 
 [LSTM](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/LSTM.md)
 
+[Attention](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Attention.md)
+
 [GRU](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/GRU.md)
+
+
 ### Practice
 To be updated...
 ## License
