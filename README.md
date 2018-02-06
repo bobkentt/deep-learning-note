@@ -34,6 +34,7 @@ Writing a note about deep learning.
 
 
 ### Practice
+[One example of neural network](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 To be updated...
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
