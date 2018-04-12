@@ -1,4 +1,4 @@
-# perceptron
+# 感知机(perceptron)
 一个感知机（perceptron）可以理解成一个有线性到非线性的映射，
 感知器可以表示为 f:RN→{−1,1} 的映射函数。其中 f 的形式如下：
 
