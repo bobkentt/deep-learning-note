@@ -1,10 +1,15 @@
 # 感知机(perceptron)
-一个感知机（perceptron）可以理解成一个有线性到非线性的映射，
-感知器可以表示为 f:RN→{−1,1} 的映射函数。其中 f 的形式如下：
-
-f(x)=sign(w.x+b)
-
-其中，w 和 b 都是 N 维向量，是感知器的模型参数。感知器的训练过程其实就是求解w 和 b 的过程。正确的 w 和 b 所构成的超平面 w.x+b=0 恰好将两类数据点分割在这个平面的两侧。
+设有 n维输入的单个感知机（如下图示）a_1至 a_n为n维输入向量的各个分量w_1至w_n为各个输入分量连接到感知机的权量（或称权值），b为偏置，  f(.)为激活函数（又曰激励函数或传递函数），t为标量输出。输出 t的数学描述为：
 
 
-![](https://cdn-images-1.medium.com/max/1600/1*n9_4oGTvkmve9ZM07kkQXw.png)
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/54c7e092c4ad81a12ef8f5ec706f5608bf6e2795)
+
+其中![](https://wikimedia.org/api/rest_v1/media/math/render/svg/8e814b252d9514474fa0eb70431741b8b0e46a23) ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/09cd946d4df939cd266dab9d84d47fb485805398) f(x)为反对称的符号函数，其定义为：
+
+
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/ded0c8c0be524222d932f66bc6288279bbeb6655)
+
+从式(1)可知，偏置被引申为权量，而对应的输入值为  1。故，一感知机的输出行为是求得输入向量与权向量的内积后，经一个激活函数所得一个标量结果。
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ncell.png/300px-Ncell.png)
